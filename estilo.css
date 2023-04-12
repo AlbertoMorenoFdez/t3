@@ -2,3 +2,22 @@ h1{
     background-color: green;
     color:white;
 }
+
+.classP1 > a{
+    background-color: chartreuse;
+}
+
+.classP2 > a{
+    background-color: greenyellow;
+}
+
+a{
+    display: inline-block;
+    width: 20vw;
+    max-width: 150px;
+    margin: 2px;
+    border-radius: 2px;
+    box-shadow: 5px 10px 8px yellow;
+    text-align: center;
+
+}
